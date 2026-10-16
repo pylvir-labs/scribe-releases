@@ -24,6 +24,10 @@ pick the file for your system:
 The `.msi` is the same Windows app, for those who deploy with Windows Installer. The two
 `.app.tar.gz` files are the macOS app without its disk image, and you do not need them.
 
+**Version 0.6.0 has its Windows installers only, for now.** Its Linux and macOS files are added
+to the same release in November. Until then, on Linux or macOS, take
+[0.5.1](https://github.com/pylvir-labs/scribe-releases/releases/tag/v0.5.1).
+
 ## The first launch
 
 The installers are not signed, so your system warns you the first time. That is expected.
@@ -47,12 +51,12 @@ The installers are not signed, so your system warns you the first time. That is 
 To update, download the installer of the newer version and run it. Your documents stay
 where you saved them: Scribe keeps no copies of its own.
 
-From version 0.6.0, Scribe will tell you when a newer version is out, under
-*Settings ▸ Updates*, and open this page for you. It never downloads or installs anything by
+Since version 0.6.0, Scribe tells you when a newer version is out, under
+*Settings ▸ Updates*, and opens this page for you. It never downloads or installs anything by
 itself. Checking automatically is off until you turn it on, and a check sends the app's name
 and version and nothing about you or your writing.
 
-Version 0.5.1 and earlier do not check. This page is where to look.
+Version 0.5.1 and earlier do not check: install 0.6.0 by hand once, and it tells you after that.
 
 ## What it needs
 
