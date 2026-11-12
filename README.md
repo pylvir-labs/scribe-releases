@@ -24,9 +24,8 @@ pick the file for your system:
 The `.msi` is the same Windows app, for those who deploy with Windows Installer. The two
 `.app.tar.gz` files are the macOS app without its disk image, and you do not need them.
 
-**Version 0.6.1 has its Windows installers only, for now.** Its Linux and macOS files are added
-to the same release in November. Until then, on Linux or macOS, take
-[0.5.1](https://github.com/pylvir-labs/scribe-releases/releases/tag/v0.5.1).
+**Versions 0.6.0 and 0.6.1 have their Windows installers only.** On Linux or macOS, take
+[0.6.2](https://github.com/pylvir-labs/scribe-releases/releases/tag/v0.6.2) or later.
 
 ## The first launch
 
